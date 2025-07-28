@@ -3,8 +3,7 @@
 This is a personal CV (Curriculum Vitae) website built using **HTML**, **CSS**, and optional **JavaScript**. It displays my skills, education, projects, and contact information in a modern, responsive layout.
 
 ## 🔗 Live Demo
-https://cv0123.netlify.app/
-
+https://resume-012.netlify.app/
 ## 📁 Features
 
 - Clean and modern design
